@@ -1,0 +1,23 @@
+{
+    "100": "Mongo operation error",
+    "101": "Mongo connection timeout",
+    "102": "Connection string is empty",
+    "103": "ClassName and Payload must be provided",
+    "104": "ClassName and Payload and id must be provided",
+    "105": "Id must be provided",
+    "106": "ClassName and where condition must provide",
+    "107": "ClassName and id must be provided",
+    "108": "ClassName, body and filter must provide",
+    "109": "ClassName and id must provide",
+    "110": "No record found",
+    "111": "No record upserted",
+    "112": "No record(s) inserted",
+    "113": "Account not existing or activated",
+    "114": "Account not active yet",
+    "115": "Token expired",
+    "116": "Bad token",
+    "117": "System error",
+    "118": "Can not sign token",
+    "119": "Login infomation not correct",
+    "403": "Forbidden"
+}
